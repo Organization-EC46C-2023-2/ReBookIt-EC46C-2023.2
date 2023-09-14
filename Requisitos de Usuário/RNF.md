@@ -1,6 +1,6 @@
 # 1. Requisitos Não Funcionais
 
-A *tabela 1* contém os requisitos não funcionais para o projeto.
+A *tabela 2* contém os requisitos não funcionais para o projeto.
 
   ID  |       Requisito NF       | Categoria/Tipo | Prioridade | Requisitos Relacionados
  -----|--------------------------|----------------|------------|------------------------
@@ -17,5 +17,5 @@ A *tabela 1* contém os requisitos não funcionais para o projeto.
  RF11 |                          |                |            |
  RF12 |                          |                |            |
 
-Tabela 1: Requisitos não funcionais funcionais
+Tabela 2: Requisitos não funcionais funcionais
       
