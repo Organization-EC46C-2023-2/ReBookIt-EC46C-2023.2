@@ -3,8 +3,8 @@
 A *tabela 3* contém as histórias de usuário para o projeto.
 
   ID  |       Histórias de Usuário       | Critérios de Aceitação | Prioridade
- -----|----------------------------------|------------------------|-----------
- US01 |                                  |                        |
+ -----|:----------------------------------:|:------------------------:|:-----------:
+ US01 |Eu, como usuário regular, quero preencher um formulário para corrigir um erro de um livro||
  US02 |                                  |                        |
  US03 |                                  |                        |
  US04 |                                  |                        |
