@@ -2,8 +2,8 @@
 
 A *tabela 3* contém as histórias de usuário para o projeto.
 
-  ID  |       Histórias de Usuário       | Critérios de Aceitação | Prioridade
- -----|:----------------------------------:|:------------------------:|:-----------:
+  ID  |       Histórias de Usuário       | Critérios de Aceitação | Prioridade  | RF/RNF Relacionado
+ -----|:----------------------------------:|:------------------------:|:-----------:|---------------
  US01 |Eu, como leitor, quero preencher um formulário para corrigir um erro de um livro||
  US02 |Eu, como editora, quero receber as reclamações do leitor em meu email|                        |
  US03 |Eu, como leitor, quero visualizar todas as editoras filiadas ao site|                        |
