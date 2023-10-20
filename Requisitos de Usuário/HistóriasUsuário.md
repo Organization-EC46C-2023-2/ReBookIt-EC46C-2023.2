@@ -8,10 +8,10 @@ A *tabela 3* contém as histórias de usuário para o projeto.
  US02 |Eu, como editora, quero receber as reclamações do leitor em meu email|                        |
  US03 |Eu, como leitor, quero visualizar todas as editoras filiadas ao site|                        |
  US04 |Eu, como leitor, quero ler sobre a empresa na seção "Quem somos?"|                        |
- US05 |                                  |                        |
- US06 |                                  |                        |     
- US07 |                                  |                        |
- US08 |                                  |                        |
+ US05 |EU, como leitor quero criar uma conta e logar no site|                        |
+ US06 |Eu, como leitor, quero visualizar reclamações que já fiz anteriormente|                        |     
+ US07 |Eu, como leitor, quero editar as informações do meu perfil|                        |
+ US08 |Eu, como leitor, quero a possibilidade de logar com a conta Google ou email|                        |
  US09 |                                  |                        |
  US10 |                                  |                        |
  US11 |                                  |                        |
