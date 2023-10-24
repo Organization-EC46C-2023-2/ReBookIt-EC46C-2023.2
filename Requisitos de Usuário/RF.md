@@ -11,7 +11,7 @@ A *tabela 1* contém os requisitos funcionais para o projeto.
  RF05 |O sistema deve permitir que o usuário edite seu perfil|            |
  RF06 |O sistema deve permitir que a editora receba um email da reclamação feita|            |     
  RF07 |O sistema não deve permitir que o usuário realize mais de 10 reclamações por semana|            |
- RF08 |                       |            |
+ RF08 |O sistema deve permitir que o usuário visualize reclamações feitas anteriormente|            |
  RF09 |                       |            |
  RF10 |                       |            |
  RF11 |                       |            |
