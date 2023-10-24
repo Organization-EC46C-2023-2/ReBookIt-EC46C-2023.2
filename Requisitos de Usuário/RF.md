@@ -6,7 +6,7 @@ A *tabela 1* contém os requisitos funcionais para o projeto.
  -----|-----------------------|------------|------------------------
  RF01 |O sistema deve permitir que o usuário envie reclamações para a editora|            |
  RF02 |O sistema deve permitir que o usuário especifique o que no livro necessita de correção|            |
- RF03 |O sistema deve permitir que o usuário escolha o livro que necessta de correção|            |
+ RF03 |O sistema deve permitir que o usuário escolha o livro que necessita de correção|            |
  RF04 |O sistema deve permitir que o usuário se registre e logue|            |
  RF05 |O sistema deve permitir que o usuário edite seu perfil|            |
  RF06 |O sistema deve permitir que a editora receba um email da reclamação feita|            |     
